@@ -1,0 +1,53 @@
+.container {
+  width: 100%;
+  background-color: #ddd;
+  display: flex;
+  gap: 7%;
+  align-items: center;
+  justify-content: center;
+  min-height: 10vh;
+}
+
+.algos ul {
+  list-style: none;
+  display: flex;
+}
+
+.algos ul li {
+  margin: 1rem;
+  cursor: pointer;
+  background-color: rgb(65, 155, 214);
+  padding: 0.2rem 0.5rem;
+  border-radius: 5px;
+}
+
+.algos ul li:hover {
+  background-color: rgb(109, 177, 223);
+}
+
+.container h1 {
+  margin-right: 3rem;
+  margin-left: 1rem;
+}
+
+.newArrBtn {
+  outline: none;
+  border: none;
+  padding: 0.4rem;
+  cursor: pointer;
+  background-color: rgb(65, 155, 214);
+  border-radius: 5px;
+}
+
+.newArrBtn:hover {
+  background-color: rgb(109, 177, 223);
+}
+
+.input label {
+  margin-right: 1rem;
+}
+
+.disabled {
+  pointer-events: none;
+  opacity: 0.6;
+}

@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  width: 80%;
+  justify-content: center;
+  margin: 0 auto;
+  min-height: 800px;
+}
+
+.bar {
+  width: 10px;
+  background-color: rgb(65, 155, 214);
+  margin-right: 2px;
+}
