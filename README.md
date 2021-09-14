@@ -1,1 +1,1 @@
-[Link](https://sorting-visualizer-portfolio.netlify.app/)
+[LIVE](https://sorting-visualizer-portfolio.netlify.app/)
